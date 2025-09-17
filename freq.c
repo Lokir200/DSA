@@ -13,3 +13,4 @@ void main() {
         printf("Element %d appears %d times\n", arr[i], count);
     }
 }
+   
